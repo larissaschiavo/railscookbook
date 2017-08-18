@@ -9,8 +9,8 @@
 **Step 3:** Add these to Gemfile (under development group) group :developmentdo
   # Run &#39;bundle exec annotate&#39; in Terminal to add helpful comments to models.
   gem&#39;annotate&#39;
-  # These two give you a great error handling page.
-  # But make sure to never use them in production!
+  These two give you a great error handling page.
+  But make sure to never use them in production!
   gem&#39;better\_errors&#39;
   gem&#39;binding\_of\_caller&#39;
   gem&#39;byebug&#39;
